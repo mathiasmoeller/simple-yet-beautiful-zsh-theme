@@ -1,4 +1,4 @@
-# zsh-theme
+# simple but beautiful zsh-theme
 
 My custom zsh theme.
 
